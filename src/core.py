@@ -19,7 +19,7 @@ def unknown(bot, update):
 
 def main():
     # Create the Updater and pass it your bot's token.
-    updater = Updater(token=TELEGRAM_TOKEN)
+    updater = Updater(token=1499635959:AAEBAZ93wUhuMtchl4di9JdT5WgCxWakEUU)
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
